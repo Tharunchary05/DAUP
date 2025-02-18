@@ -8,3 +8,5 @@ Data Analysis Using Python
 [LAB_03](https://github.com/Tharunchary05/DAUP/blob/main/DAUP_Lab_Activity_3.ipynb)
 
 [LAB_04](https://github.com/Tharunchary05/DAUP/blob/main/DAUP_Lab_4.ipynb)
+
+[LAB_05](https://github.com/Tharunchary05/DAUP/blob/main/Daup_Lab_Activity_5.ipynb)
