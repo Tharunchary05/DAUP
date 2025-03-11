@@ -12,3 +12,5 @@ Data Analysis Using Python
 [LAB_05](https://github.com/Tharunchary05/DAUP/blob/main/Daup_Lab_Activity_5.ipynb)
 
 [LAB_06](https://github.com/Tharunchary05/DAUP/blob/main/DAUP_6_1.ipynb)
+
+[LAB_07](https://github.com/Tharunchary05/DAUP/blob/main/Daup_Lab_Activity_9.ipynb)
